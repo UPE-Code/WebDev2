@@ -11,3 +11,20 @@ In this repository, you will find all the code talked about in the WebDev Worksh
         - Undefined
         - Big Int (Not talked about)
         - Symbol (Not talked about)
+- Structure Branch: In this section we talked about variables and the various statements that give our programs structure
+    - Variables
+        - var
+        - let
+        - const
+    - Conditional Statments
+        - if
+        - if/else
+        - ternary
+        - nested if's
+        - else if
+        - switch
+    - Loops
+        - for
+        - while
+        - do while
+        - break
