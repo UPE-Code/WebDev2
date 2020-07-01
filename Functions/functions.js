@@ -1,10 +1,18 @@
 // Functions allow us to write reusable, modular code
 
+// Function declaration
 function sayHello() {
   console.log('Hello')
 }
 
 sayHello()
+
+// Function expression
+const sayHey = function(){
+  console.log('Hey')
+}
+
+sayHey()
 
 // Function can accept parameters
 function convertTemp(celsius) {
