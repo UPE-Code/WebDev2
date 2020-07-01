@@ -1,4 +1,4 @@
-// Numberss: Represent integers and floating point numbers
+// Numbers: Represent integers and floating point numbers
 console.log(42)
 console.log(9.81)
 
@@ -10,7 +10,7 @@ console.log(2445389754982745027698267286725792387528967829567)
 console.log(3 + 3)
 console.log(4 - 6)
 console.log(9 * 2)
-console.log(7 / 3)
+console.log(7 / 3) // Treated as doubles, returns 2.33333
 console.log(59 % 10)
 
 // NaN is a unique number type value that represents something that is not a number
