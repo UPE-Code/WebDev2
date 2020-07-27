@@ -1,4 +1,4 @@
-// Numberss: Represent integers and floating point numbers
+// Numbers: Represent integers and floating point numbers
 console.log(42)
 console.log(9.81)
 
