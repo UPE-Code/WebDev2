@@ -14,7 +14,7 @@ typeof arr // object
 // To view the length of the array, we can use a property called length. The .length property returns the last index of the array + 1
 console.log(arr.length)
 
-// You can set the length of an array, and all indexes that are not defined will be undefined
+// You can set the length of an array, and all indexes that are not defined will be empty
 arr.length = 8
 console.log(arr)
 
