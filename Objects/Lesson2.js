@@ -27,3 +27,10 @@ let total = 69.420
 
 // Convert number to a fixed number of decimal places 
 console.log(total.toFixed(2))
+
+/*
+  How are we able to use methods on primative types
+    Javascript wraps the value in a Wrapper class representative of the type
+    Performs and returns whatever is needed from the method
+    Destroys the wrapper class
+*/

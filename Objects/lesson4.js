@@ -1,6 +1,6 @@
 // Prototypes and Classes
 
-// Where does the toString method come from if I not define it in the object. 
+// Where does the toString method come from if I do not define it in the object. 
 let empty = {}
 console.log(empty.toString())
 

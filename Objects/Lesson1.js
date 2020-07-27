@@ -59,11 +59,10 @@ age = 0
 const person = {
   name: "James",
   age: 20,
-  birthday: () => {
+  birthday() {
     console.log("Happy Birthday to You.")
     console.log(this)
   }
 }
 
 person.birthday()
-console.log(person.age)
