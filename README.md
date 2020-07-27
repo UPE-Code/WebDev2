@@ -48,3 +48,18 @@ In this repository, you will find all the code talked about in the WebDev Worksh
        - Filter
        - Map
        - Reduce
+- Objects Branch: In this section we discussed objects in Javascript
+    - Lesson 1
+        - How to create objects
+        - How to access properties and methods
+    - Lesson 2
+        - String Methods
+        - Number Methods
+    - Lesson 3
+        - Rest Operator
+        - Spread Operator
+        - Destructuring
+    - Lesson 4
+        - Prototypes
+        - Classes
+        - Extending Classes
