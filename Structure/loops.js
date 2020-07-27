@@ -1,48 +1,48 @@
 // Loops Allow us to repeat things
 
 // For Loop
-for(let i = 1; i <= 10; i++) {
-  console.log(`${i} squared is ${i**2}`)
+for (let i = 1; i <= 10; i++) {
+  console.log(`${i} squared is ${i ** 2}`);
 }
-console.log("\n")
+console.log("\n");
 
 // While Loop
 let counter = 0;
 while (counter < 10) {
   if (counter % 2 === 0) {
-    console.log(`${counter} is even`)
+    console.log(`${counter} is even`);
   } else {
-    console.log(`${counter} is odd`)
+    console.log(`${counter} is odd`);
   }
 
-  counter++
+  counter++;
 }
-console.log("\n")
+console.log("\n");
 
 // Breaking out of a loop
-let x = 10
+let x = 10;
 while (true) {
   if (x % 7 === 0) {
-    console.log(x)
-    break
+    console.log(x);
+    break;
   }
-  x++
+  x++;
 }
 
 // Skipping an iteration
-for(i = 0; i < 20; i++) {
+for (let i = 0; i < 20; i++) {
   if (i % 2 === 0) {
-    continue
+    continue;
   }
 
-  console.log(` ${i} is odd`)
+  console.log(` ${i} is odd`);
 }
 
 // Do While Loop
-let error = true
+let error = true;
 
 do {
-  console.log("There are no errors")
-} while (!error)
+  console.log("There are no errors");
+} while (!error);
 
-console.log("\n")
+console.log("\n");
