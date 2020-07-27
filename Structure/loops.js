@@ -23,10 +23,19 @@ console.log("\n")
 let x = 10
 while (true) {
   if (x % 7 === 0) {
-    console.log(currnet)
+    console.log(x)
     break
   }
-  current++
+  x++
+}
+
+// Skipping an iteration
+for(i = 0; i < 20; i++) {
+  if (i % 2 === 0) {
+    continue
+  }
+
+  console.log(` ${i} is odd`)
 }
 
 // Do While Loop

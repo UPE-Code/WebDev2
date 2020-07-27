@@ -36,7 +36,7 @@ if (insuranceAge > 18) {
 console.log("\n")
 
 // else if
-let age = 26
+let age = 30
 let isChild = age <= 7
 let isSenior = age >= 65
 

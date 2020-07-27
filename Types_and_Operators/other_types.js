@@ -1,3 +1,4 @@
+
 // Null: Represents when a value is intentionally nonexistent
 console.log(null) // OUTPUT: null
 console.log(typeof null) // OUTPUT: object

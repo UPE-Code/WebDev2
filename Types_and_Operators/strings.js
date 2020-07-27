@@ -1,7 +1,6 @@
-// Strings: Represents a sequence of characters that are wrapped in quotes.
-// In Javascript, they can be wrapped in single or double quotes
-console.log("Hello World")
-console.log('My name is DaJuan Harris')
+// Strings are sequence of characters that can be wrapped in single or double quotes
+console.log("Hello Wold");
+console.log('My name is DaJuan Harris');
 
 // Strings are indexed, allowing us to pull letters from the string
 console.log("Hello World"[3])
