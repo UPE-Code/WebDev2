@@ -28,3 +28,7 @@ In this repository, you will find all the code talked about in the WebDev Worksh
         - do while
         - break
         - continue
+- Functions Branch: In this section we talked about functions and concepts related to functions
+    - Functions
+        - Scope
+        - Closures
