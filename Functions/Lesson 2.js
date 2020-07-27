@@ -1,4 +1,4 @@
-// Scope defines where a binding is visible
+// Scope is the accessibility of variables, functions, and objects in some particular part of your code during runtime.
 
 // x is visible anywhere in the program because it is in the global scope
 let x = 10

@@ -1,12 +1,13 @@
-// Because functions can access bindings from the scope around it, this occurs even if that scope is no longer active.
+// A JavaScript closure is, very simply, any function that exists inside another function.
+// A Closure is created when an inner function tries to access the scope chain of its outer function
 
 let myName = "DaJuan"
 
 const sayMyName = () => console.log(myName)
 
-myName = "Zach"
+myName = "Zack"
 
-sayMyName()
+sayMyName() // Zack
 
 
 const adder = x => {
